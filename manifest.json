@@ -1,11 +1,11 @@
 {
-  "name": "Cuponera Favorita",
-  "short_name": "Cuponera Favorita",
+  "name": "cuponera_favorita",
+  "short_name": "cuponera_favorita",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#hexcode",
   "theme_color": "#hexcode",
-  "description": "Cuponera Favorita",
+  "description": "A new Flutter project.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
